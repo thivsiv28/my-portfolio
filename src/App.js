@@ -1,14 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Content from "./components/Content";
-import Header from "./components/Header";
+import React from "react";
 import Footer from "./components/Footer";
+import PortfolioContainer from "./components/PortfolioContainer";
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Content />
+      <PortfolioContainer />
       <Footer />
     </div>
   );
