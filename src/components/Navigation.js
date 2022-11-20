@@ -6,7 +6,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 function Navigation({ currentPage, handlePageChange }) {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" sticky="top">
+    <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
         <Navbar.Brand>Thiviya Sivasithamparam</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

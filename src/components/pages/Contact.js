@@ -79,7 +79,7 @@ function Contact() {
       )}
       <Form>
         <Form.Group className="mb-3" controlId="formBasicEmail">
-          <Form.Label>Your Email address</Form.Label>
+          <h1> Contact Me </h1>
           <Form.Control
             type="email"
             value={email}
@@ -90,7 +90,6 @@ function Contact() {
           />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicEmail">
-          <Form.Label>Your Name</Form.Label>
           <Form.Control
             type="text"
             value={userName}
@@ -101,7 +100,6 @@ function Contact() {
           />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicEmail">
-          <Form.Label>Message</Form.Label>
           <Form.Control
             type="text"
             value={message}
