@@ -4,6 +4,7 @@ function AboutMe() {
   return (
     <div>
       <h1>About Page</h1>
+      <img src="https://st3.depositphotos.com/1007566/13175/v/600/depositphotos_131750410-stock-illustration-woman-female-avatar-character.jpg"></img>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
