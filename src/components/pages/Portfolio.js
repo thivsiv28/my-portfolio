@@ -7,6 +7,7 @@ import Col from "react-bootstrap/Col";
 function BasicExample() {
   return (
     <Container>
+      <h1>My projects</h1>
       <Row>
         <Col xs={6} md={4}>
           <Card style={{ width: "18rem" }}>
