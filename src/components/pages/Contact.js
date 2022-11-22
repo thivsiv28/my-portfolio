@@ -79,7 +79,7 @@ function Contact() {
       )}
       <Form>
         <Form.Group className="mb-3" controlId="formBasicEmail">
-          <h1> Contact Me </h1>
+          <h1> Contact Me! Email: thiviya.sivasithamparam@gmail.com </h1>
           <Form.Control
             type="email"
             value={email}
@@ -115,46 +115,6 @@ function Contact() {
       </Form>
     </div>
   );
-
-  // return (
-  //   <div>
-  //     <p>Hello {userName}</p>
-  //     <form className="form">
-  //       <input
-  //         value={email}
-  //         name="email"
-  //         onChange={handleEmailChange}
-  //         onBlur={handleEmailChange}
-  //         type="email"
-  //         placeholder="email"
-  //       />
-  //       <input
-  //         value={userName}
-  //         name="userName"
-  //         onChange={handleNameChange}
-  //         onBlur={handleNameChange}
-  //         type="text"
-  //         placeholder="name"
-  //       />
-  //       <input
-  //         value={message}
-  //         name="message"
-  //         onChange={handleMessageChange}
-  //         onBlur={handleMessageChange}
-  //         type="text"
-  //         placeholder="Message"
-  //       />
-  //       <button type="button" onClick={handleFormSubmit}>
-  //         Submit
-  //       </button>
-  //     </form>
-  //     {errorMessage && (
-  //       <div>
-  //         <p className="error-text">{errorMessage}</p>
-  //       </div>
-  //     )}
-  //   </div>
-  // );
 }
 
 export default Contact;
