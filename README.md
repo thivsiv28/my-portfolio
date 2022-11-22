@@ -14,11 +14,11 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 Here is the main landing page.
 
-![homepageofmyportfolio](../my-portfolio/public/homepage.png)
+![homepageofmyportfolio](./public/homepage.png)
 
 Here is the contact page.
 
-![contactpageerror](../my-portfolio/public/contactpage.png)
+![contactpageerror](./public/contactpage.png)
 
 ## Links:
 
