@@ -17,10 +17,10 @@ function BasicExample() {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </Card.Text>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://frightful-coffin-45274.herokuapp.com/">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://frightful-coffin-45274.herokuapp.com/"
                   target="_blank"
                 >
                   Deployed Application
@@ -47,19 +47,19 @@ function BasicExample() {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </Card.Text>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://hmhtom.github.io/Your-Movie-Databse/">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://hmhtom.github.io/Your-Movie-Databse/"
                   target="_blank"
                 >
                   Deployed Application
                 </Button>
               </a>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://github.com/hmhtom/Your-Movie-Databse">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://github.com/hmhtom/Your-Movie-Databse"
                   target="_blank"
                 >
                   Github Repository
@@ -77,19 +77,19 @@ function BasicExample() {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </Card.Text>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://thivsiv28.github.io/module3javascriptchallenge/">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://thivsiv28.github.io/module3javascriptchallenge/"
                   target="_blank"
                 >
                   Deployed Application
                 </Button>
               </a>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://github.com/thivsiv28/module3javascriptchallenge">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://github.com/thivsiv28/module3javascriptchallenge"
                   target="_blank"
                 >
                   Github Repository
@@ -109,19 +109,19 @@ function BasicExample() {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </Card.Text>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://thivsiv28.github.io/module6serversideapisweatherdashboard/">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://thivsiv28.github.io/module6serversideapisweatherdashboard/"
                   target="_blank"
                 >
                   Deployed Application
                 </Button>
               </a>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://github.com/thivsiv28/module6serversideapisweatherdashboard">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://github.com/thivsiv28/module6serversideapisweatherdashboard"
                   target="_blank"
                 >
                   Github Repository
@@ -139,19 +139,19 @@ function BasicExample() {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </Card.Text>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://thivsiv28.github.io/module4webapischallengecodequiz/">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://thivsiv28.github.io/module4webapischallengecodequiz/"
                   target="_blank"
                 >
                   Deployed Application
                 </Button>
               </a>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://github.com/thivsiv28/module4webapischallengecodequiz">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://github.com/thivsiv28/module4webapischallengecodequiz"
                   target="_blank"
                 >
                   Github Repository
