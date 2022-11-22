@@ -169,19 +169,19 @@ function BasicExample() {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </Card.Text>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://thivsiv28.github.io/thirdpartyapisworkdayscheduler/">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://thivsiv28.github.io/thirdpartyapisworkdayscheduler/"
                   target="_blank"
                 >
                   Deployed Application
                 </Button>
               </a>
-              <a href="https://github.com/thivsiv28/Shophub">
+              <a href="https://github.com/thivsiv28/thirdpartyapisworkdayscheduler">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/Shophub"
+                  href="https://github.com/thivsiv28/thirdpartyapisworkdayscheduler"
                   target="_blank"
                 >
                   Github Repository
