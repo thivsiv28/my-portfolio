@@ -11,33 +11,6 @@ function BasicExample() {
       <Row>
         <Col xs={6} md={4}>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" src="codingquiz.png" />
-            <Card.Body>
-              <Card.Title>The Goodness Gift</Card.Title>
-              <Card.Text>Mern stack single page Application.</Card.Text>
-              <a href="https://salty-lowlands-79836.herokuapp.com//">
-                <Button
-                  variant="primary"
-                  href="https://salty-lowlands-79836.herokuapp.com/"
-                  target="_blank"
-                >
-                  Deployed Application
-                </Button>
-              </a>
-              <a href="https://github.com/thivsiv28/The-goodness-gift">
-                <Button
-                  variant="primary"
-                  href="https://github.com/thivsiv28/The-goodness-gift"
-                  target="_blank"
-                >
-                  Github Repository
-                </Button>
-              </a>
-            </Card.Body>
-          </Card>
-        </Col>
-        <Col xs={6} md={4}>
-          <Card style={{ width: "18rem" }}>
             <Card.Img variant="top" src="shophub.png" />
             <Card.Body>
               <Card.Title>ShopHub</Card.Title>
@@ -98,26 +71,25 @@ function BasicExample() {
         </Col>
         <Col xs={6} md={4}>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" src="passwordgenerator.png" />
+            <Card.Img variant="top" src="mainpage.png" />
             <Card.Body>
-              <Card.Title>Password Generator</Card.Title>
+              <Card.Title>The Goodness Gift</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Project 3- MERN Stack Single Page Application
               </Card.Text>
-              <a href="https://thivsiv28.github.io/module3javascriptchallenge/">
+              <a href="https://salty-lowlands-79836.herokuapp.com/">
                 <Button
                   variant="primary"
-                  href="https://thivsiv28.github.io/module3javascriptchallenge/"
+                  href="https://salty-lowlands-79836.herokuapp.com/"
                   target="_blank"
                 >
                   Deployed Application
                 </Button>
               </a>
-              <a href="https://github.com/thivsiv28/module3javascriptchallenge">
+              <a href="https://github.com/thivsiv28/The-goodness-gift">
                 <Button
                   variant="primary"
-                  href="https://github.com/thivsiv28/module3javascriptchallenge"
+                  href="https://github.com/thivsiv28/The-goodness-gift"
                   target="_blank"
                 >
                   Github Repository
@@ -158,7 +130,36 @@ function BasicExample() {
             </Card.Body>
           </Card>
         </Col>
-
+        <Col xs={6} md={4}>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img variant="top" src="codingquiz.png" />
+            <Card.Body>
+              <Card.Title>Coding Quiz</Card.Title>
+              <Card.Text>
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </Card.Text>
+              <a href="https://thivsiv28.github.io/module4webapischallengecodequiz/">
+                <Button
+                  variant="primary"
+                  href="https://thivsiv28.github.io/module4webapischallengecodequiz/"
+                  target="_blank"
+                >
+                  Deployed Application
+                </Button>
+              </a>
+              <a href="https://github.com/thivsiv28/module4webapischallengecodequiz">
+                <Button
+                  variant="primary"
+                  href="https://github.com/thivsiv28/module4webapischallengecodequiz"
+                  target="_blank"
+                >
+                  Github Repository
+                </Button>
+              </a>
+            </Card.Body>
+          </Card>
+        </Col>
         <Col xs={6} md={4}>
           <Card style={{ width: "18rem" }}>
             <Card.Img variant="top" src="worktimetable.png" />
